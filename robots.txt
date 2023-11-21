@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allawy1.framer.ai/sitemap.xml
